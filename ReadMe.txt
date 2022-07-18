@@ -1,0 +1,2 @@
+To run the front-end go to the folder "front-login" and run the command "npm start"
+To run the back-end run the database mongodb (db name "login"- collection "users") then go to the folder "server" and run the command "nodemon app"
